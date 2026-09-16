@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://withinpsych.com.au/sitemap.xml
