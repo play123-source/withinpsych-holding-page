@@ -59,11 +59,11 @@ img {
 .logo {
   width: min(340px, 78vw);
   display: block;
-  margin: 0 auto;
+  margin: 0 auto 3rem;
 }
 
 main {
-  margin-top: 2.25rem;
+  margin-top: 0;
 }
 
 h1 {
